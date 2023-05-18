@@ -129,10 +129,22 @@ h1{
     top: 144px;
     left: -24px;
     z-index: 100;
+
+    color: white;
+    text-align: center;
+
+    /* Font */
+    
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
 }
 
-.social-links > a > div > h2:hover{
+.social-links > *:hover{
     color:  #FF0000;
+    border: 1px solid red;
 }
 
 .border{
