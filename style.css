@@ -130,9 +130,6 @@ h1{
     left: -24px;
     z-index: 100;
 
-    color: white;
-    text-align: center;
-
     /* Font */
     
     font-family: sans-serif;
@@ -140,6 +137,8 @@ h1{
     font-weight: 400;
     font-size: 32px;
     line-height: 39px;
+    color: white;
+    text-align: center;
 }
 
 .social-links > *:hover{
